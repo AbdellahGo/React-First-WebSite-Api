@@ -11,9 +11,8 @@ In the dog component, another API is integrated to fetch information about dogs.
 Overall, this training site demonstrates the use of React components, API integration, and router functionality to improve user experience and ease navigation. It serves as a hands-on exercise to consolidate the knowledge gained in React development and demonstrates my ability to create interactive and dynamic web applications.
 
 # Important: 
-**<span style="color:blue">If you download this repository you should know these things.</span>**
-If you download this repository you should know these things.
-1: You must download nodejs.
+**If you download this repository you should know these things.**
+1: You must download [nodejs].
 2: Before you run the site, you must execute this command in the npm i or npm install command line, and then type npm start to run the project
 
 # Getting Started with Create React App
