@@ -1,0 +1,25 @@
+.paren-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #fff;
+    margin-top: 40px;
+}
+
+.Copywrit {
+    padding: 15px 0;
+}
+
+.Copywrit p {
+    font-size: 18px;
+    color: var(--logoMediaColor);
+}
+
+.Copywrit p span {
+    font-weight: 600;
+}
+
+.media {
+    display: flex;
+    gap: 20px;
+}

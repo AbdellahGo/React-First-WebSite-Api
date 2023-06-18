@@ -1,0 +1,11 @@
+main .title {
+    padding: 0 20px;
+    width: 100%;
+}
+main .title h2 {
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+    font-size: 40px;
+    color: var(--logoMediaColor);
+}

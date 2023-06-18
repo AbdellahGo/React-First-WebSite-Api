@@ -1,0 +1,45 @@
+.parent-dogs .info {
+    width: 60%;
+    padding: 20px;
+    border-radius: 0 10px 10px  0;
+    -webkit-border-radius: 0 10px 10px  0;
+    -moz-border-radius: 0 10px 10px  0;
+    -ms-border-radius: 0 10px 10px  0;
+    -o-border-radius: 0 10px 10px  0;
+}
+
+.parent-dogs .info h3 {
+    font-size: 30px;
+    color: var(--logoMediaColor);
+}
+
+.parent-dogs ul {
+    padding: 10px 20px;
+    margin-top: 20px;
+    color: var(--logoMediaColor);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.parent-dogs ul li {
+    padding: 0 0 15px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid var(--logoMediaColor);
+}
+.parent-dogs ul li div {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 40px;
+    margin-top: 5px;
+}
+.parent-dogs ul li span {
+    width: 50%;
+    display: block;
+    font-size: 18px;
+}
