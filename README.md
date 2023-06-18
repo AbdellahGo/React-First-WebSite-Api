@@ -13,10 +13,10 @@ Overall, this training site demonstrates the use of React components, API integr
 # Important: 
 **If you download this repository you should know these things.**
 
-```
-1: You must download nodejs.
-2: Before you run the site, you must execute this command in the npm i or npm install command line, and then type npm start to run the project
-```
+
+#RRGGBB 1: You must download nodejs.
+#RRGGBB 2: Before you run the site, you must execute this command in the npm i or npm install command line, and then type npm start to run the project
+
 
 # Getting Started with Create React App
 
