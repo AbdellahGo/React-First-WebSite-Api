@@ -1,3 +1,21 @@
+# Description:
+description:
+This is a website I created to publicly display the skills I learned and also to practice what I learned, and it aims to implement and standardize the concepts I learned during the development process. The site features three main components: the home, the recipes, and the dog.
+
+The home page component is the landing page, providing an overview and introduction to the website. It offers a visually appealing and easy-to-use interface.
+
+The recipes component uses an API to retrieve information based on user input. Users can search for recipes, browse through different categories, or explore popular dishes. The component displays dynamically fetched data, providing detailed recipes, ingredients, instructions, and additional information. The user can seamlessly switch back to the Home component or switch to the Dog component using the site router.
+
+In the dog component, another API is integrated to fetch information about dogs. Users can search for specific dog breeds, view details about each breed, and explore images or related characteristics. The component elevates the router to enable smooth transitions between different sections of the site.
+
+Overall, this training site demonstrates the use of React components, API integration, and router functionality to improve user experience and ease navigation. It serves as a hands-on exercise to consolidate the knowledge gained in React development and demonstrates my ability to create interactive and dynamic web applications.
+
+# Important: 
+**<span style="color:blue">If you download this repository you should know these things.</span>**
+If you download this repository you should know these things.
+1: You must download nodejs.
+2: Before you run the site, you must execute this command in the npm i or npm install command line, and then type npm start to run the project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
