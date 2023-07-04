@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbdellahGo/React-First-WebSite-Api/static/css/main.87eb7869.css",
+    "main.js": "/AbdellahGo/React-First-WebSite-Api/static/js/main.7330dfab.js",
+    "index.html": "/AbdellahGo/React-First-WebSite-Api/index.html",
+    "main.87eb7869.css.map": "/AbdellahGo/React-First-WebSite-Api/static/css/main.87eb7869.css.map",
+    "main.7330dfab.js.map": "/AbdellahGo/React-First-WebSite-Api/static/js/main.7330dfab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87eb7869.css",
+    "static/js/main.7330dfab.js"
+  ]
+}
